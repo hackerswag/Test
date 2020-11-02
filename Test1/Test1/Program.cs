@@ -10,7 +10,11 @@ namespace Test1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Tal 1:");
+           
             int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Tal 2:");
+
             int b = int.Parse(Console.ReadLine());
 
             int c = a + b;
