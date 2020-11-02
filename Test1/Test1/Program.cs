@@ -19,7 +19,8 @@ namespace Test1
 
             int c = a + b;
             Console.WriteLine(c);
-               
+
+            Console.WriteLine("Snälla funka");
         }
     }
 }
